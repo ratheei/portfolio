@@ -3,7 +3,7 @@
     "path": "C:/Users/evere/Downloads/portfolio/index.html",
     "project_path": "index.html",
     "type": "html",
-    "hash": "0",
+    "hash": "1011617082",
     "contents": "",
     "dirty": false,
     "created": 1788276131094.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "32,38",
-        "scrollLine": "25"
+        "cursorPosition": "20,115",
+        "scrollLine": "17"
     },
     "folds": "",
-    "lastKnownWriteTime": 1788277390,
+    "lastKnownWriteTime": 1788277527,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1788277390863,
+    "last_content_update": 1788277527661,
     "read_only": false,
     "read_only_alternatives": []
 }
